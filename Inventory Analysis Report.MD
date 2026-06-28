@@ -212,7 +212,7 @@ Stock movement across months is **stable with no major spikes or crashes** — a
 
 ## 🔗 Live Dashboard
 
-> 🌐 **[View Live Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMmUwNDk1YzktNmVhMi00MmIwLTlkNGQtNDg4NjNhMWM2OThkIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+> 🌐 **[View Live Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMDE5ZWJhZjktYzhlOC00MjI3LTk1M2QtMjhhYzUwYjA0ODQ2IiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
 
 ---
 
