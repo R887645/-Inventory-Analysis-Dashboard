@@ -97,7 +97,7 @@ Sales Table (Fact)
     ↓
 Date Table (Dimension)
 ```
-
+![My Image](https://github.com/R887645/-Inventory-Analysis-Dashboard/blob/main/Screenshot%202026-06-28%20031410.png?raw=true)
 ---
 
 ## 💻 Phase 4: DAX Measures
