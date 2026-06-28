@@ -56,7 +56,7 @@ inventory-analysis-dashboard/
 | 🔄 Inventory Turnover Rate | 12.43 |
 
 
-![My Image](https://github.com/R887645/-Inventory-Analysis-Dashboard/blob/main/Inventory%20Analysis%20Dashboard.png?raw=true)
+![My Image](https://github.com/R887645/-Inventory-Analysis-Dashboard/blob/main/Inventory%20Analysis%20Dashboard%20(1).png?raw=true)
 ---
 
 ## ⚙️ Project Pipeline
