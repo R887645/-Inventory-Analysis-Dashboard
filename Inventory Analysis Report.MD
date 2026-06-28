@@ -55,6 +55,8 @@ inventory-analysis-dashboard/
 | 📅 Days of Inventory on Hand (DOH) | 59 days |
 | 🔄 Inventory Turnover Rate | 12.43 |
 
+
+![My Image](https://github.com/R887645/-Inventory-Analysis-Dashboard/blob/main/Inventory%20Analysis%20Dashboard.png?raw=true)
 ---
 
 ## ⚙️ Project Pipeline
@@ -93,9 +95,7 @@ The data model connects stock, sales, product, and region tables through a clean
 ```
 Sales Table (Fact)
     ↓
-Products Table (Dimension)     Region Table (Dimension)
-    ↓                               ↓
-Category Table (Dimension)     Date Table (Dimension)
+Date Table (Dimension)
 ```
 
 ---
